@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nairoski&theme=onedark" alt="Nairoski" /></a> </p>
 
-- 🔭 I’m currently working on [CNI](https://github.com/Nairoski/CNI)
+- 🔭 I’m currently working on [Nairoski-Engine-Especializada](https://github.com/Nairoski/Nairoski-Engine-Especializada)
 - 👯 I’m looking to collaborate on **Anyone who wants to embark on truly great challenges**
 - 🌱 I’m currently learning **C/C++**
 - 💬 Ask me about **Backend**
